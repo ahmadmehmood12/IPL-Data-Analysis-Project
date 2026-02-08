@@ -109,8 +109,8 @@ Built visual insights using **Matplotlib** and **Seaborn**:
 
 ## 📬 Author
 
-**Project by:** [Your Name]
-**LinkedIn:** [Your LinkedIn Profile URL]
-**GitHub:** [Your GitHub URL]
+**Project by:** Ahmad Mehmood
+**LinkedIn:** https://www.linkedin.com/in/ahmadmehmood1252/
+**GitHub:** https://github.com/ahmadmehmood12
 
 ---
